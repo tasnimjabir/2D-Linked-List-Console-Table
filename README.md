@@ -9,10 +9,10 @@ A console-based, dynamically resizable table built entirely with 2D (row + colum
 ## Demo
 
 ### Table view and navigation
-![Table demo](demo1.jpg)
+![Table demo](demo1.JPG)
 
 ### Editing a cell
-![Editing demo](demo2.jpg)
+![Editing demo](demo2.JPG)
 
 ---
 
